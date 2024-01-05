@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ce8TD1m2rxMseMCPnUx0mhK6+xnhFaLbZ1vp2IlJgmdiZctE/y2qBFqL9nQ04CMZJlEqKv0zklN/1SzkD19HjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gallf\\Documents\\GitHub\\AdventOfCode2023\\AdventOfCode2023\\day03_part2\\day03_part2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gallf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gallf\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gallf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gallf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

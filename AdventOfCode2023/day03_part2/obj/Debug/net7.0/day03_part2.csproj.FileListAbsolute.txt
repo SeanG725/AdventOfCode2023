@@ -1,0 +1,15 @@
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\bin\Debug\net7.0\day03_part2.exe
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\bin\Debug\net7.0\day03_part2.deps.json
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\bin\Debug\net7.0\day03_part2.runtimeconfig.json
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\bin\Debug\net7.0\day03_part2.dll
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\bin\Debug\net7.0\day03_part2.pdb
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.AssemblyInfoInputs.cache
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.AssemblyInfo.cs
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.csproj.CoreCompileInputs.cache
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.sourcelink.json
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.dll
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\refint\day03_part2.dll
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.pdb
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\day03_part2.genruntimeconfig.cache
+C:\Users\gallf\Documents\GitHub\AdventOfCode2023\AdventOfCode2023\day03_part2\obj\Debug\net7.0\ref\day03_part2.dll
